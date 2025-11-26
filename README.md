@@ -216,9 +216,9 @@ O projeto gera automaticamente:
 ```
 wine-classifier-pytorch/
 │
-├── wine_pytorch.py          # Código principal
+├── wine_pytorch.py             # Código principal
 ├── README.md                   # Este arquivo
-├── EXPLANATION.txt             # Explicação detalhada (800+ linhas)
+├── Explicação Detalhada        # Explicação detalhada (800+ linhas)
 │
 ├── wine_classifier_model.pth   # Modelo treinado (gerado)
 ├── training_results.png        # Gráficos (gerado)
